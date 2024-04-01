@@ -1,0 +1,14 @@
+C:\Users\sotoa\OneDrive\Escritorio\maiki\obj\Debug\net7.0\maiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sotoa\OneDrive\Escritorio\maiki\obj\Debug\net7.0\maiki.AssemblyInfoInputs.cache
+C:\Users\sotoa\OneDrive\Escritorio\maiki\obj\Debug\net7.0\maiki.AssemblyInfo.cs
+C:\Users\sotoa\OneDrive\Escritorio\maiki\obj\Debug\net7.0\maiki.csproj.CoreCompileInputs.cache
+C:\Users\sotoa\OneDrive\Escritorio\maiki\bin\Debug\net7.0\maiki.exe
+C:\Users\sotoa\OneDrive\Escritorio\maiki\bin\Debug\net7.0\maiki.deps.json
+C:\Users\sotoa\OneDrive\Escritorio\maiki\bin\Debug\net7.0\maiki.runtimeconfig.json
+C:\Users\sotoa\OneDrive\Escritorio\maiki\bin\Debug\net7.0\maiki.dll
+C:\Users\sotoa\OneDrive\Escritorio\maiki\bin\Debug\net7.0\maiki.pdb
+C:\Users\sotoa\OneDrive\Escritorio\maiki\obj\Debug\net7.0\maiki.dll
+C:\Users\sotoa\OneDrive\Escritorio\maiki\obj\Debug\net7.0\refint\maiki.dll
+C:\Users\sotoa\OneDrive\Escritorio\maiki\obj\Debug\net7.0\maiki.pdb
+C:\Users\sotoa\OneDrive\Escritorio\maiki\obj\Debug\net7.0\maiki.genruntimeconfig.cache
+C:\Users\sotoa\OneDrive\Escritorio\maiki\obj\Debug\net7.0\ref\maiki.dll
